@@ -9,12 +9,11 @@
 ## Preview of '3840x1600' wallpapers
 
 <p align="center">
+  
 ![preview-3840x1600-1.jpeg](3840x1600/Preview/preview-3840x1600-1.jpeg?raw=true)
-
 ![preview-3840x1600-2.jpeg](3840x1600/Preview/preview-3840x1600-2.jpeg?raw=true)
 ![preview-3840x1600-3.jpeg](3840x1600/Preview/preview-3840x1600-3.jpeg?raw=true)
 ![preview-3840x1600-4.jpeg](3840x1600/Preview/preview-3840x1600-4.jpeg?raw=true)
-
 ![preview-3840x1600-5.jpeg](3840x1600/Preview/preview-3840x1600-5.jpeg?raw=true)
 ![preview-3840x1600-6.jpeg](3840x1600/Preview/preview-3840x1600-6.jpeg?raw=true)
 ![preview-3840x1600-7.jpeg](3840x1600/Preview/preview-3840x1600-7.jpeg?raw=true)
