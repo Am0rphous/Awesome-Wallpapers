@@ -7,7 +7,7 @@
 <br>
 <br>
 
-Table of content
+### Table of content
 - [Preview of '3840x1600' wallpapers](https://github.com/Am0rphous/Awesome-Wallpapers#preview-of-3840x1600-wallpapers)
 - [Preview of '4K' wallpapers](https://github.com/Am0rphous/Awesome-Wallpapers#preview-of-4k-wallpapers)
 
