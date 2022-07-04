@@ -9,17 +9,15 @@
 <p align="center">
 
 preview-3840x1600-1
-![preview-3840x1600-1](3840x1600/Preview/preview-3840x1600-1?raw=true)
+![preview-3840x1600-1.jpeg](3840x1600/Preview/preview-3840x1600-1.jpeg?raw=true)
 
+![preview-3840x1600-2.jpeg](3840x1600/Preview/preview-3840x1600-2.jpeg?raw=true)
+![preview-3840x1600-3.jpeg](3840x1600/Preview/preview-3840x1600-3.jpeg?raw=true)
+![preview-3840x1600-4.jpeg](3840x1600/Preview/preview-3840x1600-4.jpeg?raw=true)
 
-![preview-3840x1600-1](3840x1600/Preview/preview-3840x1600-1?raw=true)
-![preview-3840x1600-2](3840x1600/Preview/preview-3840x1600-2?raw=true)
-![preview-3840x1600-3](3840x1600/Preview/preview-3840x1600-3?raw=true)
-![preview-3840x1600-4](3840x1600/Preview/preview-3840x1600-4?raw=true)
-
-![preview-3840x1600-5](3840x1600/Preview/preview-3840x1600-5?raw=true)
-![preview-3840x1600-6](3840x1600/Preview/preview-3840x1600-6?raw=true)
-![preview-3840x1600-7](3840x1600/Preview/preview-3840x1600-7?raw=true)
-![preview-3840x1600-8](3840x1600/Preview/preview-3840x1600-8?raw=true)
+![preview-3840x1600-5.jpeg](3840x1600/Preview/preview-3840x1600-5.jpeg?raw=true)
+![preview-3840x1600-6.jpeg](3840x1600/Preview/preview-3840x1600-6.jpeg?raw=true)
+![preview-3840x1600-7.jpeg](3840x1600/Preview/preview-3840x1600-7.jpeg?raw=true)
+![preview-3840x1600-8.jpeg](3840x1600/Preview/preview-3840x1600-8.jpeg?raw=true)
 
 </p>
