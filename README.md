@@ -9,8 +9,6 @@
 ## Preview of '3840x1600' wallpapers
 
 <p align="center">
-
-preview-3840x1600-1
 ![preview-3840x1600-1.jpeg](3840x1600/Preview/preview-3840x1600-1.jpeg?raw=true)
 
 ![preview-3840x1600-2.jpeg](3840x1600/Preview/preview-3840x1600-2.jpeg?raw=true)
