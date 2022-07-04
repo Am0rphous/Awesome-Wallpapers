@@ -8,8 +8,6 @@
 
 ## Preview of '3840x1600' wallpapers
 
-<p align="center">
-  
 ![preview-3840x1600-1.jpeg](3840x1600/Preview/preview-3840x1600-1.jpeg?raw=true)
 ![preview-3840x1600-2.jpeg](3840x1600/Preview/preview-3840x1600-2.jpeg?raw=true)
 ![preview-3840x1600-3.jpeg](3840x1600/Preview/preview-3840x1600-3.jpeg?raw=true)
@@ -19,4 +17,26 @@
 ![preview-3840x1600-7.jpeg](3840x1600/Preview/preview-3840x1600-7.jpeg?raw=true)
 ![preview-3840x1600-8.jpeg](3840x1600/Preview/preview-3840x1600-8.jpeg?raw=true)
 
-</p>
+## Preview of '4K' wallpapers
+
+![preview-4K-1.jpeg](4K/Preview/preview-4K-1.jpeg?raw=true)
+![preview-4K-2.jpeg](4K/Preview/preview-4K-2.jpeg?raw=true)
+![preview-4K-3.jpeg](4K/Preview/preview-4K-3.jpeg?raw=true)
+![preview-4K-4.jpeg](4K/Preview/preview-4K-4.jpeg?raw=true)
+![preview-4K-5.jpeg](4K/Preview/preview-4K-5.jpeg?raw=true)
+![preview-4K-6.jpeg](4K/Preview/preview-4K-6.jpeg?raw=true)
+![preview-4K-7.jpeg](4K/Preview/preview-4K-7.jpeg?raw=true)
+![preview-4K-8.jpeg](4K/Preview/preview-4K-8.jpeg?raw=true)
+![preview-4K-9.jpeg](4K/Preview/preview-4K-9.jpeg?raw=true)
+![preview-4K-10.jpeg](4K/Preview/preview-4K-10.jpeg?raw=true)
+![preview-4K-11.jpeg](4K/Preview/preview-4K-11.jpeg?raw=true)
+![preview-4K-12.jpeg](4K/Preview/preview-4K-12.jpeg?raw=true)
+![preview-4K-13.jpeg](4K/Preview/preview-4K-13.jpeg?raw=true)
+![preview-4K-14.jpeg](4K/Preview/preview-4K-14.jpeg?raw=true)
+![preview-4K-15.jpeg](4K/Preview/preview-4K-15.jpeg?raw=true)
+![preview-4K-16.jpeg](4K/Preview/preview-4K-16.jpeg?raw=true)
+![preview-4K-17.jpeg](4K/Preview/preview-4K-17.jpeg?raw=true)
+![preview-4K-18.jpeg](4K/Preview/preview-4K-18.jpeg?raw=true)
+![preview-4K-19.jpeg](4K/Preview/preview-4K-19.jpeg?raw=true)
+![preview-4K-20.jpeg](4K/Preview/preview-4K-20.jpeg?raw=true)
+
