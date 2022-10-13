@@ -1,4 +1,8 @@
-# getwallpapers.com
+# Sooo you want more wallpapers eh?
+
+- [getwallpapers.com](https://getwallpapers.com/)
+- [interfacelift.com/wallpaper/](https://interfacelift.com/wallpaper/downloads/downloads/any/)
+- [wallhaven.cc](https://wallhaven.cc/)
 
 - https://getwallpapers.com/wallpaper/full/a/1/f/262211.jpg
 - https://getwallpapers.com/wallpaper/full/6/2/a/262452.jpg
