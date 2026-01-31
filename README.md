@@ -1,14 +1,18 @@
-<h1 align="center"> Awesome-Wallpapers </h1>
+<h1 align="center"> Awesome Wallpapers </h1>
 
 <p align="center">⭐ Make your workstation's background beautiful by using some of these awesome wallpapers 🤩 </p>
 
 <p align="center"><i>Wallpapers have been collected from <a href="https://www.pexels.com">Pexels.com</a> and <a href="https://wallhaven.cc">WallHaven.cc</a>, and are free to use and share. If you however are a copyright owner or an authorized part behalf of one, and you believe some content constitutes copyright infringement: Open an issue and include your detailed claim and description of the content, and I will remove it. Cheers 🍻 </i> </p>
 
 ### Table of content
+- [Wallpaper Sites](#wallpaper-sites)
 - [Preview of '3840x1600' wallpapers](https://github.com/Am0rphous/Awesome-Wallpapers#preview-of-3840x1600-wallpapers)
 - [Preview of '4K' wallpapers](https://github.com/Am0rphous/Awesome-Wallpapers#preview-of-4k-wallpapers)
 
 <br>
+
+# Wallpaper Sites
+- [https://www.desktophut.com/](https://www.desktophut.com/)
 
 # Preview of '3840x1600' wallpapers
 
